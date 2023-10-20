@@ -42,5 +42,19 @@ Notes
 
 Feel free to use this script as a starting point for spam email detection and make any necessary modifications to meet your specific requirements
 
+**Disclaimer: Active Development, Errors Expected, Use at Your Own Risk**
+
+This script is currently under active development, and errors or issues may be present. It is provided for educational and experimental purposes. By using this script, you acknowledge and accept that:
+
+- The script may contain bugs, limitations, or inaccuracies.
+
+- It is your responsibility to validate and test the script in your specific use case.
+
+- The script may not be suitable for production environments.
+
+- The authors and maintainers of this script are not liable for any direct or indirect damages or issues arising from its use.
+
+Please use this script with caution and conduct thorough testing before applying it to critical applications or systems.
+
 ## credits:
 Adam Rivers - https://abtzpro.github.io
